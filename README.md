@@ -77,8 +77,10 @@ Your report should contain:
 - **Screenshots** of layout and results (including eye diagrams)  
 
 - **Summary Table** for each simulation:
-  | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
-  |-------------------|-----------------------|----------|-----|
-  
 
-- **Written Summary** of observations and explanations of differences.  
+<img width="1054" height="1291" alt="WhatsApp Image 2026-05-26 at 6 44 49 PM" src="https://github.com/user-attachments/assets/3931e906-a35d-4b2d-b3f0-ad623377f0b3" />
+
+  
+## Result
+The attenuation-limited fiber length based on the power budget equation.  
+Simulate the resulting system and verify that it meets performance objectives.
